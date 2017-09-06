@@ -23,7 +23,7 @@
 ├── package.json   #项目配置文件
 ├── src
 │   ├── App.vue
-│   ├── api   #api文件
+│   ├── api        #api文件
 │   │   └── data.json
 │   ├── assets
 │   │   ├── css
@@ -38,10 +38,10 @@
 │   │   ├── Ratings
 │   │   └── Seller
 │   ├── main.js 
-│   ├── router   #路由文件
+│   ├── router     #路由文件
 │   │   └── index.js
 │   └── store
-└── static   #静态资源目录
+└── static         #静态资源目录
     ├── css
     │   └── reset.css
     └── js
